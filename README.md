@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Meu nome é Eduardo Oliveira Leite, mas podem me chamar de Edu. Sou estudade de desenvolvimemto Web FullStack  da @cubos.academy Estou iniciando minha jornada como Dev-FullStack.</h3>
+<h3 align="left">Meu nome é Eduardo Oliveira Leite, mas podem me chamar de Edu. Sou estudade de desenvolvimento Web FullStack da @cubos.academy  e estou iniciando minha jornada como Dev-FullStack.</h3>
 
 ###
 
@@ -38,5 +38,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=EduOLeite&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EduOLeite&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/EduOLeite/EduOLeite/output/snake.svg" alt="Snake animation" />
 
 ###
